@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "4be6d2fc98cb2488",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bd8503b2e96e045",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Youtube.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2e77dc77fef5b8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "493e5c18752df004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb1f5285da4a191",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "95de5cb7ca38908e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "069e66082ae84340",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#workflow",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "428eab4142728930",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89b27b02d13a94bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f141d267ef75e5da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b7b22b1ab67282",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Youtube.md"
+              }
+            }
+          },
+          {
+            "id": "9ef0395ade6420b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2ea21e51affd8712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40de7e2dda11419e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Youtube.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fb0f27a69178a61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Youtube.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6bd8503b2e96e045",
+  "lastOpenFiles": [
+    "_Links.md",
+    "Links/Link - markdownguide.org - 2022-05-24 at 12-29 PM.md",
+    "Links/Link - matthewcassinelli.com - 2022-04-24 at 8-35 PM.md",
+    "Links/Link - makeuseof.com - 2022-06-30 at 6-08 PM.md",
+    "YMS/Cubase/Cubase (Clase 3).md",
+    "YMS/Cubase/Cubase (Clase 2).md",
+    "YMS/Cubase/Cubase (Clase 1).md",
+    "Home.md",
+    "Cards/Script Debugger.md",
+    "Cubase 10 Explained.md"
+  ]
+}

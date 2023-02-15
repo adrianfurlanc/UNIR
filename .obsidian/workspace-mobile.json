@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "4be6d2fc98cb2488",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dae293e56502543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bd8503b2e96e045",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee6b7088d6fa99a3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a7081bfe90ba282",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "65257bb5e346e588",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "60381083accea3b9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "fc970da70d68c721",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "9e3e7ad521be84c0",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "49c6170f32d75731",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a036eec83fe03316",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Home.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4ed7587840804062",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Home.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "62cd9451d9b97708",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Home.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6bd8503b2e96e045",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "_Links.md",
+    "Links/Link - markdownguide.org - 2022-05-24 at 12-29 PM.md",
+    "Links/Link - matthewcassinelli.com - 2022-04-24 at 8-35 PM.md",
+    "Links/Link - makeuseof.com - 2022-06-30 at 6-08 PM.md",
+    "YMS/Cubase/Cubase (Clase 3).md",
+    "YMS/Cubase/Cubase (Clase 2).md",
+    "YMS/Cubase/Cubase (Clase 1).md",
+    "Home.md",
+    "Cards/Script Debugger.md"
+  ]
+}

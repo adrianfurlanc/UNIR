@@ -1,0 +1,38 @@
+## Tema 10 - El Barroco Tardío (Audición)
+
+BARROCO TEMPRANO
+- Época
+	- ¿Cuántas melodía simultáneas tiene la pieza?
+		- Monodía acompalada
+	- ¿Qué plantilla tiene: música vocal, instrumentos?
+		- Tiene voz e instrumentos. 
+	- ¿Si es vocal el texto es inteligible?
+		- No.
+	- ¿Es música modal o tonal?
+		- Tonal
+- Cronología
+	-  ¿De qué siglo es la pieza y porqué?
+		- s. VIII
+			- Bajo continuo
+			- Dinámica en la voz
+			- Silábico
+			- 
+	- ¿Cómo es el ritmo?, ¿tiene uno o varios textos?
+		- Tiene un solo texto
+	- ¿Se cuidan las consonancias en todas las voces?
+		- Sí se cuidan las consonancias. Es música armónica
+	- ¿Cómo se comportan las voces: movimiento contrario, ornamentación?
+		- Hay ornamentación 
+	- ¿Número de voces?
+		- 
+- Escuela
+	- ¿Cuál puede ser su zona geográfica original.
+		- España
+	- ¿En qué idioma está el texto?
+		- Castellano
+	- ¿A qué estilo musical se adapta?
+		- Italiano
+- Género. 
+	- zarzuela ó Ópera. Señalando diferencias entre ellas
+- Autor
+	- 

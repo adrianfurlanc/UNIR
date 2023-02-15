@@ -1,0 +1,79 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "Filosofía de la Música",
+      "relativePath": "Filosofía de la Música"
+    },
+    {
+      "name": "Historia de la Música",
+      "relativePath": "Historia de la Música"
+    },
+    {
+      "name": "Templates",
+      "relativePath": "Templates"
+    },
+    {
+      "name": "Teoría de la Música",
+      "relativePath": "Teoría de la Música"
+    },
+    {
+      "name": "res",
+      "relativePath": "res"
+    },
+    {
+      "name": "Audiciones",
+      "relativePath": "Historia de la Música/Audiciones"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "Audiciones.png",
+      "basename": "Audiciones",
+      "relativePath": "res/Audiciones.png"
+    },
+    {
+      "name": "Esquema para las audiciones.png",
+      "basename": "Esquema para las audiciones",
+      "relativePath": "res/Esquema para las audiciones.png"
+    },
+    {
+      "name": "Estética Clase Temas 2 y 3.png",
+      "basename": "Estética Clase Temas 2 y 3",
+      "relativePath": "res/Estética Clase Temas 2 y 3.png"
+    },
+    {
+      "name": "Formas Musicales.png",
+      "basename": "Formas Musicales",
+      "relativePath": "res/Formas Musicales.png"
+    },
+    {
+      "name": "Manuscrito Medievo.png",
+      "basename": "Manuscrito Medievo",
+      "relativePath": "res/Manuscrito Medievo.png"
+    },
+    {
+      "name": "Notacion Musical (s. X).png",
+      "basename": "Notacion Musical (s. X)",
+      "relativePath": "res/Notacion Musical (s. X).png"
+    },
+    {
+      "name": "08b_Transicion al Barroco (dragged).pdf",
+      "basename": "08b_Transicion al Barroco (dragged)",
+      "relativePath": "res/08b_Transicion al Barroco (dragged).pdf"
+    },
+    {
+      "name": "08b_Transicion al Barroco (dragged) 1.pdf",
+      "basename": "08b_Transicion al Barroco (dragged) 1",
+      "relativePath": "res/08b_Transicion al Barroco (dragged) 1.pdf"
+    },
+    {
+      "name": "06_Musica religiosa en el siglo XVI (dragged).pdf",
+      "basename": "06_Musica religiosa en el siglo XVI (dragged)",
+      "relativePath": "res/06_Musica religiosa en el siglo XVI (dragged).pdf"
+    }
+  ]
+}

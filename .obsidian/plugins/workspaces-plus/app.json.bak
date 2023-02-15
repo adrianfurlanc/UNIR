@@ -1,0 +1,25 @@
+{
+  "mobilePullAction": "command-palette:open",
+  "vimMode": false,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Attachments",
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "fileSortOrder": "alphabetical",
+  "promptDelete": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newFileFolderPath": "• Encounters"
+}

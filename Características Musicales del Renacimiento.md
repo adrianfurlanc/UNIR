@@ -1,0 +1,24 @@
+- **Aumento de la valoración de la música** 
+	- Capillas musicales. 
+	- Ostentación como amenización
+- El músico sale del anonimato
+- **Culminación del lenguaje contrapuntístico** 
+	- Las melodías superpuestas medievales se transforman en un procedimiento imitativo en el que se funden todas las voces
+- **Auge de la música instrumental** 
+	- Se potencia un auge de los instrumentos que progresivamente se liberan de su servidumbre de la música vocal y de la danza.
+- **Polarización de la música profana y religiosa.** 
+	- Los compositores ya no dependen casi exclusivamente de la iglesia, por lo que los temas profanos crecen en importancia. El más popular es el madrigal
+- **Unión de texto y música** 
+	- Importancia del texto como elemento estructural de la pieza
+	- Representación sonora de la palabra, simbolismo, soggetto cavato, etc.
+- **El nuevo contrapunto**
+	- Se basó en una nueva idea del contrapunto: la mayor preferencia por los intervalos de terceras y sextas, el uso de las quintas y octavas como fundamento armónico y el control estético de las disonancias.
+- **Géneros Griegos**
+	- La fascinación por la teoría musical griega con sus géneros diatónico, cromático y enharmónico produce una amplitud de búsqueda con respecto al diatonismo musical
+- **La expresión del ethos**
+	- Se buscan nuevos caminos para suscitar el ethos y las pasiones
+- **Mecenazgo Musical**
+	- A finales del XIV y principios del XV cuando comenzaron a difundirse las capillas musicales en las cortes de forma generalizada
+	- Los nobles y gobernantes competían por tener a los mejores músicos y compositores en su corte.
+- **La transformación de los instrumentos**
+	- Irrupción a mediados del XV de los instrumentos de tecla: clavicordio, clavicémbalo, perfeccionamiento del órgano

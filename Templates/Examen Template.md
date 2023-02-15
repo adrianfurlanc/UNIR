@@ -1,0 +1,31 @@
+- Época
+	- ¿Cuántas melodía simultáneas tiene la pieza?
+		- 
+	- ¿Qué plantilla tiene: música vocal, instrumentos?
+		- 
+	- ¿Si es vocal el texto es inteligible?
+		- 
+	- ¿Es música modal o tonal?
+		- 
+- Cronología
+	-  ¿De qué siglo es la pieza y porqué?
+		- 
+	- ¿Cómo es el ritmo?, ¿tiene uno o varios textos?
+		- 
+	- ¿Se cuidan las consonancias en todas las voces?
+		- 
+	- ¿Cómo se comportan las voces: movimiento contrario, ornamentación?
+		- 
+	- ¿Número de voces?
+		- 
+- Escuela
+	- ¿Cuál puede ser su zona geográfica original.
+		- 
+	- ¿En qué idioma está el texto?
+		- 
+	- ¿A qué estilo musical se adapta?
+		- 
+- Género. 
+	- Organum, discanto, conductus, monodía litúrgica (directa, antifonal, o responsorial), motete, misa, rondeau, virelai, ballade, cançó o lai, etc.
+- Autor
+	- 

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "_Links",
+      "path": "_Links.md"
+    },
+    {
+      "type": "file",
+      "title": "_Listen Later",
+      "path": "_Listen Later.md"
+    },
+    {
+      "type": "file",
+      "title": "Teoría Musical (Clase 10)",
+      "path": "YMS/Teoría Musical/Teoría Musical (Clase 10).md"
+    },
+    {
+      "type": "file",
+      "title": "_Youtube",
+      "path": "_Youtube.md"
+    },
+    {
+      "type": "file",
+      "title": "Teoría Musical (Documentación)",
+      "path": "Atlas/Teoría Musical MOC.md"
+    },
+    {
+      "type": "file",
+      "title": "Técnicas al usar melodías",
+      "path": "Cards/Técnicas al usar melodías.md"
+    },
+    {
+      "type": "file",
+      "title": "Actividad de Foro - FM",
+      "path": "Actividad de Foro - FM.md"
+    }
+  ]
+}

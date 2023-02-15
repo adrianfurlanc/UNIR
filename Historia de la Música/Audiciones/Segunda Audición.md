@@ -1,0 +1,41 @@
+# Segunda Audición
+
+- Búsqueda de virtuosismo lo encontramos en el XIV y el XVIII
+
+EDAD MEDIA
+- Época
+	- ¿Cuántas melodía simultáneas tiene la pieza?
+		- 3 melodías. Con ámbito poco amplio. Uso de 8vas, 5tas y 4tas exclusivamente
+		- Melodías independientes una de otra 
+		- Doble sensibilización
+		- Búsqueda de una estética muy intelectual y no tanto sensible o musical
+		- Muy melismático
+		- ¿Qué plantilla tiene: música vocal, instrumentos?
+			- Vocal
+	- ¿Si es vocal el texto es inteligible?
+		- No es inteligible. 
+	- ¿Es música modal o tonal?
+		- Modal
+- Cronología
+	-  ¿De qué siglo es la pieza y porqué?
+		- Siglo XIV
+	- ¿Cómo es el ritmo?, ¿tiene uno o varios textos?
+		- Ritmo más complejo. (Síncopas)
+		- Si tiene varios textos es un motete y si tiene uno puede ser chanson, virelai, rondeau si es francés (si no hay estribillo no puede ser rondel). Si es italiano podría ser madrigal
+	- ¿Se cuidan las consonancias en todas las voces?
+		- 
+	- ¿Cómo se comportan las voces: movimiento contrario, ornamentación?
+	- Esa   en la ornamentación y esas notas rápidas que si aparecen. No es improvisada. 
+	- ¿Número de voces?
+		- 3
+- Escuela
+	- ¿Cuál puede ser su zona geográfica original.
+		- 
+	- ¿En qué idioma está el texto?
+		- 
+	- ¿A qué estilo musical se adapta?
+		- Ars Nova Francés ó Trecento Italiano 
+- Género. 
+	- Organum, discanto, conductus, monodía litúrgica (directa, antifonal, o responsorial), motete, misa, rondeau, virelai, ballade, cançó o lai, etc.
+- Autor
+	- Posible autor que encaje con las características anteriores

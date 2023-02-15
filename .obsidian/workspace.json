@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "4be6d2fc98cb2488",
+    "type": "split",
+    "children": [
+      {
+        "id": "692697b3c63f0181",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9fc14ffb1045656",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El Renacimiento Musical.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "55a49a56320d2764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c3cb421a59935e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2e77dc77fef5b8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "493e5c18752df004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eb1f5285da4a191",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "95de5cb7ca38908e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "069e66082ae84340",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "melod",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "428eab4142728930",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "89b27b02d13a94bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f141d267ef75e5da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12b7b22b1ab67282",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ef0395ade6420b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2ea21e51affd8712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40de7e2dda11419e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7fb0f27a69178a61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "workbench-obsidian:Workbench": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "86c3cb421a59935e",
+  "lastOpenFiles": [
+    "El Renacimiento Musical.md",
+    "Cuarta  generación franco-flamenca (c. 1520-c.1560).md",
+    "La Reforma y la Contrareforma.md",
+    "Tercera generación franco-flamenca (c. 1480-c.1520).md",
+    "Historia de la Música/Tema 5 - La música en el siglo XV (2).md",
+    "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md",
+    "Contexto Cultural del Renacimiento.md",
+    "Historia de la Música/Tema 6 -  La música sacra en el siglo XVI.md",
+    "La Contrarreforma.md",
+    "La Escuela Franco-flamenca.md"
+  ]
+}
