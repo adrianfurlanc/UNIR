@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Formas Instrumentales del s. XVI",
+      "path": "Formas Instrumentales del s. XVI.md"
+    },
+    {
+      "basename": "Tema 7 - La canción profana y la música instrumental del Renacimiento",
+      "path": "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md"
+    },
+    {
+      "basename": "La Música Instrumental del s. XVI",
+      "path": "La Música Instrumental del s. XVI.md"
+    },
+    {
       "basename": "El Renacimiento Musical del s.XVI",
       "path": "El Renacimiento Musical del s.XVI.md"
     },
     {
-      "basename": "Inglaterra en el s. XVI",
-      "path": "Inglaterra en el s. XVI.md"
-    },
-    {
       "basename": "Confederación Germánica en el siglo s. XVI",
       "path": "Confederación Germánica en el siglo s. XVI.md"
+    },
+    {
+      "basename": "Inglaterra en el s. XVI",
+      "path": "Inglaterra en el s. XVI.md"
     },
     {
       "basename": "Chanson Parisina en el s. XVI",
@@ -23,10 +35,6 @@
     {
       "basename": "El Madrigal Italiano - Segunda Mitad del XVI",
       "path": "El Madrigal Italiano - Segunda Mitad del XVI.md"
-    },
-    {
-      "basename": "Tema 7 - La canción profana y la música instrumental del Renacimiento",
-      "path": "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md"
     },
     {
       "basename": "El Renacimiento Musical del s.XV",
@@ -191,10 +199,6 @@
     {
       "basename": "Audiciones",
       "path": "res/Audiciones.png"
-    },
-    {
-      "basename": "Upcoming Tasks",
-      "path": "Upcoming Tasks.md"
     }
   ],
   "omittedPaths": [],

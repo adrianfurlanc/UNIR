@@ -31,25 +31,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El Renacimiento Musical del s.XVI.md",
+                "file": "La Música Instrumental del s. XVI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a4cff24aef692439",
+            "id": "06c59d10d929e087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Confederación Germánica en el siglo s. XVI.md",
+                "file": "Formas Instrumentales del s. XVI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7159ac4bcfd0412",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formas Instrumentales del s. XVI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3949d66215f3f2c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El Renacimiento Musical del s.XVI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "El Renacimiento Musical del s.XVI.md"
+                "file": "Formas Instrumentales del s. XVI.md"
               }
             }
           },
@@ -151,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "El Renacimiento Musical del s.XVI.md",
+                "file": "Formas Instrumentales del s. XVI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "El Renacimiento Musical del s.XVI.md",
+                "file": "Formas Instrumentales del s. XVI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,17 +220,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c9fc14ffb1045656",
+  "active": "a7159ac4bcfd0412",
   "lastOpenFiles": [
-    "Inglaterra en el s. XVI.md",
+    "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md",
+    "Formas Instrumentales del s. XVI.md",
+    "La Música Instrumental del s. XVI.md",
+    "El Renacimiento Musical del s.XVI.md",
     "Confederación Germánica en el siglo s. XVI.md",
+    "Inglaterra en el s. XVI.md",
     "Chanson Parisina en el s. XVI.md",
     "Inglaterra.md",
-    "El Renacimiento Musical del s.XVI.md",
     "El Madrigal Italiano - Primera Mitad del XVI.md",
-    "El Madrigal Italiano - Segunda Mitad del XVI.md",
-    "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md",
-    "El Renacimiento Musical del s.XV.md",
-    "El Madrigal Italiano.md"
+    "El Madrigal Italiano - Segunda Mitad del XVI.md"
   ]
 }
