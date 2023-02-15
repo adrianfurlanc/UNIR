@@ -3,7 +3,9 @@
 Tras el perfeccionamiento de los instrumentos, el crecimiento económico que conlleva el aumento de la individualidad, y la edición de tablaturas desde 1507, la música instrumental conoce un auge extraordinario y comienza a tener un consistente repertorio escrito que se ha podido conservar.
 
 - **Laúd**. Es el instrumento doméstico favorito de los siglo XVI y XVII, su uso se extiende por toda Europa. La mayoría del repertorio consiste adaptaciones de música vocal, a veces acompañada del canto para la melodía principal. En 1507 aparecen los primeros ricercares de estilo improvisatorio con pasajes idiomáticos. Según avanza el siglo se produce una búsqueda de mayor virtuosidad y formas propias (Ej. Le Roy)
+
 - **Vihuela**. Utilizada sobre todo en la Penísula Ibérica. También con seis órdenes e igual afinación que el laúd pero con menor tamaño y mayor manejabilidad.
+
 - **Instrumentos de teclado**. EI repertorio para órgano, clavicordios, clavicémbalos y espinetas se agrupan indistintamente.
 - Las primeras obras editadas en tierras germanas del Sacro Imperio Romano Germano (Schlick, 1512) conservan el espíritu contrapuntístico característico que conoce el preludio (preámbulo) desde mediados del siglo XV (Ileborgh, 1445).
 - En Italia utiliza frecuentemente pasajes adornados y estilo espontáneo. Aparece el primer *ricercare* plenamente imitativo con estilo instrumental (Cavazzoni, 1523).

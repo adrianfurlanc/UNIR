@@ -1,5 +1,140 @@
 [
   {
+    "fileName": "La Música Instrumental a principios del siglo XVII",
+    "relativePath": "La Música Instrumental a principios del siglo XVII.md",
+    "backlinks": [
+      {
+        "fileName": "Transición del Renacimiento al Barroco",
+        "link": "La Música Instrumental a principios del siglo XVII",
+        "relativePath": "Transición del Renacimiento al Barroco.md",
+        "displayText": "La Música Instrumental"
+      }
+    ]
+  },
+  {
+    "fileName": "El surgimiento de la Ópera",
+    "relativePath": "El surgimiento de la Ópera.md",
+    "headings": [
+      {
+        "heading": "La reforma monódica del madrigal",
+        "level": 3
+      },
+      {
+        "heading": "Antecedentes",
+        "level": 4
+      },
+      {
+        "heading": "La Camerata Fiorentina",
+        "level": 4
+      },
+      {
+        "heading": "L'Orfeo de Monteverdi.",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Transición del Renacimiento al Barroco",
+        "link": "El surgimiento de la Ópera",
+        "relativePath": "Transición del Renacimiento al Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "El Renacimiento Musical del s.XV-XVI",
+    "relativePath": "El Renacimiento Musical del s.XV-XVI.md",
+    "headings": [
+      {
+        "heading": "Contexto Sociocultural",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Antecedente de la música franco-flamenca renacentista",
+        "relativePath": "Antecedente de la música franco-flamenca renacentista.md"
+      },
+      {
+        "link": "Primera generación franco-flamenca (c. 1420-c.1450)",
+        "relativePath": "Primera generación franco-flamenca (c. 1420-c.1450).md"
+      },
+      {
+        "link": "Segunda generación franco-flamenca (c. 1450-c.1480)",
+        "relativePath": "Segunda generación franco-flamenca (c. 1450-c.1480).md"
+      },
+      {
+        "link": "Tercera generación franco-flamenca (c. 1480-c.1520)",
+        "relativePath": "Tercera generación franco-flamenca (c. 1480-c.1520).md"
+      },
+      {
+        "link": "Cuarta  generación franco-flamenca (c. 1520-c.1560)",
+        "relativePath": "Cuarta  generación franco-flamenca (c. 1520-c.1560).md"
+      },
+      {
+        "link": "Josquin Desprez",
+        "relativePath": "Josquin Desprez.md"
+      }
+    ]
+  },
+  {
+    "fileName": "El Barroco en el arte",
+    "relativePath": "El Barroco en el arte.md"
+  },
+  {
+    "fileName": "Pensamiento Estético",
+    "relativePath": "Pensamiento Estético.md",
+    "headings": [
+      {
+        "heading": "Pensamiento Estético en la transición del Renacimiento al Barroco",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Transición del Renacimiento al Barroco",
+        "link": "Pensamiento Estético",
+        "relativePath": "Transición del Renacimiento al Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Transición del Renacimiento al Barroco",
+    "relativePath": "Transición del Renacimiento al Barroco.md",
+    "headings": [
+      {
+        "heading": "Sociedad",
+        "level": 4
+      },
+      {
+        "heading": "[[Pensamiento Estético]]",
+        "level": 4
+      },
+      {
+        "heading": "[[El surgimiento de la Ópera]]",
+        "level": 4
+      },
+      {
+        "heading": "[[La Música Instrumental a principios del siglo XVII|La Música Instrumental]]",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Pensamiento Estético",
+        "relativePath": "Pensamiento Estético.md"
+      },
+      {
+        "link": "El surgimiento de la Ópera",
+        "relativePath": "El surgimiento de la Ópera.md"
+      },
+      {
+        "link": "La Música Instrumental a principios del siglo XVII",
+        "displayText": "La Música Instrumental",
+        "relativePath": "La Música Instrumental a principios del siglo XVII.md"
+      }
+    ]
+  },
+  {
     "fileName": "Formas Instrumentales del s. XVI",
     "relativePath": "Formas Instrumentales del s. XVI.md",
     "headings": [
@@ -177,42 +312,6 @@
     ]
   },
   {
-    "fileName": "El Renacimiento Musical del s.XV",
-    "relativePath": "El Renacimiento Musical del s.XV.md",
-    "headings": [
-      {
-        "heading": "Contexto Sociocultural",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Antecedente de la música franco-flamenca renacentista",
-        "relativePath": "Antecedente de la música franco-flamenca renacentista.md"
-      },
-      {
-        "link": "Primera generación franco-flamenca (c. 1420-c.1450)",
-        "relativePath": "Primera generación franco-flamenca (c. 1420-c.1450).md"
-      },
-      {
-        "link": "Segunda generación franco-flamenca (c. 1450-c.1480)",
-        "relativePath": "Segunda generación franco-flamenca (c. 1450-c.1480).md"
-      },
-      {
-        "link": "Tercera generación franco-flamenca (c. 1480-c.1520)",
-        "relativePath": "Tercera generación franco-flamenca (c. 1480-c.1520).md"
-      },
-      {
-        "link": "Cuarta  generación franco-flamenca (c. 1520-c.1560)",
-        "relativePath": "Cuarta  generación franco-flamenca (c. 1520-c.1560).md"
-      },
-      {
-        "link": "Josquin Desprez",
-        "relativePath": "Josquin Desprez.md"
-      }
-    ]
-  },
-  {
     "fileName": "Enrique VIII",
     "relativePath": "Enrique VIII.md",
     "headings": [
@@ -232,6 +331,12 @@
   {
     "fileName": "Juan Calvino",
     "relativePath": "Juan Calvino.md",
+    "headings": [
+      {
+        "heading": "Juan Calvino",
+        "level": 2
+      }
+    ],
     "backlinks": [
       {
         "fileName": "La Reforma y la Contrareforma",
@@ -306,7 +411,7 @@
     "relativePath": "Cuarta  generación franco-flamenca (c. 1520-c.1560).md",
     "headings": [
       {
-        "heading": "Características Musicales",
+        "heading": "Características Musicales  (4ta generación franco-flamenca)",
         "level": 2
       },
       {
@@ -316,9 +421,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "El Renacimiento Musical del s.XV",
+        "fileName": "El Renacimiento Musical del s.XV-XVI",
         "link": "Cuarta  generación franco-flamenca (c. 1520-c.1560)",
-        "relativePath": "El Renacimiento Musical del s.XV.md"
+        "relativePath": "El Renacimiento Musical del s.XV-XVI.md"
       }
     ]
   },
@@ -333,9 +438,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "El Renacimiento Musical del s.XV",
+        "fileName": "El Renacimiento Musical del s.XV-XVI",
         "link": "Josquin Desprez",
-        "relativePath": "El Renacimiento Musical del s.XV.md"
+        "relativePath": "El Renacimiento Musical del s.XV-XVI.md"
       }
     ]
   },
@@ -344,15 +449,15 @@
     "relativePath": "Tercera generación franco-flamenca (c. 1480-c.1520).md",
     "headings": [
       {
-        "heading": "Características Musicales",
+        "heading": "Características Musicales  (3era generación franco-flamenca)",
         "level": 2
       }
     ],
     "backlinks": [
       {
-        "fileName": "El Renacimiento Musical del s.XV",
+        "fileName": "El Renacimiento Musical del s.XV-XVI",
         "link": "Tercera generación franco-flamenca (c. 1480-c.1520)",
-        "relativePath": "El Renacimiento Musical del s.XV.md"
+        "relativePath": "El Renacimiento Musical del s.XV-XVI.md"
       }
     ]
   },
@@ -372,7 +477,7 @@
     "relativePath": "Segunda generación franco-flamenca (c. 1450-c.1480).md",
     "headings": [
       {
-        "heading": "Características Musicales",
+        "heading": "Características Musicales  (2da generación franco-flamenca)",
         "level": 2
       },
       {
@@ -382,9 +487,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "El Renacimiento Musical del s.XV",
+        "fileName": "El Renacimiento Musical del s.XV-XVI",
         "link": "Segunda generación franco-flamenca (c. 1450-c.1480)",
-        "relativePath": "El Renacimiento Musical del s.XV.md"
+        "relativePath": "El Renacimiento Musical del s.XV-XVI.md"
       }
     ]
   },
@@ -393,7 +498,7 @@
     "relativePath": "Primera generación franco-flamenca (c. 1420-c.1450).md",
     "headings": [
       {
-        "heading": "Características Musicales",
+        "heading": "Características Musicales (1era generación franco-flamenca)",
         "level": 2
       }
     ],
@@ -405,9 +510,9 @@
     ],
     "backlinks": [
       {
-        "fileName": "El Renacimiento Musical del s.XV",
+        "fileName": "El Renacimiento Musical del s.XV-XVI",
         "link": "Primera generación franco-flamenca (c. 1420-c.1450)",
-        "relativePath": "El Renacimiento Musical del s.XV.md"
+        "relativePath": "El Renacimiento Musical del s.XV-XVI.md"
       }
     ]
   },
@@ -416,9 +521,9 @@
     "relativePath": "Antecedente de la música franco-flamenca renacentista.md",
     "backlinks": [
       {
-        "fileName": "El Renacimiento Musical del s.XV",
+        "fileName": "El Renacimiento Musical del s.XV-XVI",
         "link": "Antecedente de la música franco-flamenca renacentista",
-        "relativePath": "El Renacimiento Musical del s.XV.md"
+        "relativePath": "El Renacimiento Musical del s.XV-XVI.md"
       }
     ]
   },
@@ -659,6 +764,22 @@
   {
     "fileName": "Tema 8 - Transición del Renacimiento al Barroco",
     "relativePath": "Historia de la Música/Tema 8 - Transición del Renacimiento al Barroco.md",
+    "frontmatter": {
+      "id": 2,
+      "audicion": "Barroco",
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
     "headings": [
       {
         "heading": "Audición",

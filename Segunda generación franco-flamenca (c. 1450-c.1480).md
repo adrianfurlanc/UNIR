@@ -1,4 +1,4 @@
-## Características Musicales
+## Características Musicales  (2da generación franco-flamenca)
 - Utiliza la imitación de forma sistemática y profusa.
 - Mayor complejidad y artificio contrapuntístico al extenderse hacia Francia.
 - Creciente utilización de la chanson polifónica como modelo para otras composiciones.

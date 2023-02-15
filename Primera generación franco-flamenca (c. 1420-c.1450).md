@@ -1,4 +1,4 @@
-## Características Musicales
+## Características Musicales (1era generación franco-flamenca)
 - Simplifica el contrapunto, predominan los acordes perfectos mayores y menores, prepara la disonancia y cultiva diversos géneros:
 	- Chanson. Generalmente a tres voces en forma de rondeau. Superius melódico y cantable.
 	- Motetes. Exclusivamente religiosos.

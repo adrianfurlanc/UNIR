@@ -1,3 +1,7 @@
+---
+id: 2
+audicion: Barroco
+---
 ## Audición
 #### BARROCO
 - Monodía acompañada (una melodía con instrumento que tocan  acordes). A diferencia del renacimiento que cuando hay instrumentos tocan su propia melodía (polifonía).
@@ -13,7 +17,7 @@
 ####  Pensamiento estético 
  - El arte que va transformando y exagerando los preceptos perfectos del renacimiento es lo que se considera arte manierista.
  - Los estados más católicos buscan la belleza y la espectacularidad del arte mientras que los protestantes buscan realismo 
- -  
+ 
 #### características del barroco
 - Encontramos la especificación de distintos instrumentos en las óperas
 - La música está muy unida al cortejo y a la seducción. Un concierto tiene que seducir al público

@@ -4,25 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "692697b3c63f0181",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0bb2e71755d1ef7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "55a49a56320d2764",
+        "id": "34b52e42c34f3c74",
         "type": "tabs",
         "children": [
           {
@@ -31,50 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "La Música Instrumental del s. XVI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06c59d10d929e087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formas Instrumentales del s. XVI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7159ac4bcfd0412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Formas Instrumentales del s. XVI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3949d66215f3f2c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "El Renacimiento Musical del s.XVI.md",
+                "file": "Historia de la Música/Tema 8 - Transición del Renacimiento al Barroco.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "9d6cfa54c941fcb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ea093b7a677d945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transición del Renacimiento al Barroco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calvino",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formas Instrumentales del s. XVI.md"
+                "file": "Transición del Renacimiento al Barroco.md"
               }
             }
           },
@@ -176,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formas Instrumentales del s. XVI.md",
+                "file": "Transición del Renacimiento al Barroco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,19 +156,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formas Instrumentales del s. XVI.md",
+                "file": "Transición del Renacimiento al Barroco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,17 +181,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a7159ac4bcfd0412",
+  "active": "40de7e2dda11419e",
   "lastOpenFiles": [
-    "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md",
-    "Formas Instrumentales del s. XVI.md",
-    "La Música Instrumental del s. XVI.md",
+    "El surgimiento de la Ópera.md",
+    "El Renacimiento Musical del s.XV-XVI.md",
+    "Historia de la Música/Tema 6 -  La música sacra en el siglo XVI.md",
     "El Renacimiento Musical del s.XVI.md",
-    "Confederación Germánica en el siglo s. XVI.md",
-    "Inglaterra en el s. XVI.md",
-    "Chanson Parisina en el s. XVI.md",
-    "Inglaterra.md",
-    "El Madrigal Italiano - Primera Mitad del XVI.md",
-    "El Madrigal Italiano - Segunda Mitad del XVI.md"
+    "La Reforma y la Contrareforma.md",
+    "Transición del Renacimiento al Barroco.md",
+    "El Barroco en el arte.md",
+    "La Música Instrumental a principios del siglo XVII.md",
+    "Historia de la Música/Tema 8 - Transición del Renacimiento al Barroco.md",
+    "Transición del Renacimiento al Barroco 2.md"
   ]
 }
