@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9fc14ffb1045656",
+            "id": "0bb2e71755d1ef7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El Renacimiento Musical.md",
+                "file": "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,11 +26,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86c3cb421a59935e",
+            "id": "c9fc14ffb1045656",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "El Renacimiento Musical del s.XVI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4cff24aef692439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Confederación Germánica en el siglo s. XVI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -70,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "melod",
+                "query": "calvino",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +104,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "89b27b02d13a94bd",
@@ -108,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "El Renacimiento Musical del s.XVI.md"
+              }
             }
           },
           {
@@ -134,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "El Renacimiento Musical del s.XVI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "El Renacimiento Musical del s.XVI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,17 +195,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "86c3cb421a59935e",
+  "active": "c9fc14ffb1045656",
   "lastOpenFiles": [
-    "El Renacimiento Musical.md",
-    "Cuarta  generación franco-flamenca (c. 1520-c.1560).md",
-    "La Reforma y la Contrareforma.md",
-    "Tercera generación franco-flamenca (c. 1480-c.1520).md",
-    "Historia de la Música/Tema 5 - La música en el siglo XV (2).md",
+    "Inglaterra en el s. XVI.md",
+    "Confederación Germánica en el siglo s. XVI.md",
+    "Chanson Parisina en el s. XVI.md",
+    "Inglaterra.md",
+    "El Renacimiento Musical del s.XVI.md",
+    "El Madrigal Italiano - Primera Mitad del XVI.md",
+    "El Madrigal Italiano - Segunda Mitad del XVI.md",
     "Historia de la Música/Tema 7 - La canción profana y la música instrumental del Renacimiento.md",
-    "Contexto Cultural del Renacimiento.md",
-    "Historia de la Música/Tema 6 -  La música sacra en el siglo XVI.md",
-    "La Contrarreforma.md",
-    "La Escuela Franco-flamenca.md"
+    "El Renacimiento Musical del s.XV.md",
+    "El Madrigal Italiano.md"
   ]
 }
