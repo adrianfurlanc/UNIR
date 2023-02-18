@@ -1,4 +1,5 @@
 ## La Escuela Veneciana de la Contrarreforma
+
 - Venecia es la capital del lujo y la ostentación. 
 
 - Su música tiende a la espectacularidad sonora y al empleo de grupos enfrentados con proporciones grandiosas. Su policoralidad (cori spezzati) es la cuna del estilo concertante barroco.

@@ -1,3 +1,5 @@
+Up:: [[El Renacimiento Musical del s.XV-XVI]]
+
 ## Características Musicales  (4ta generación franco-flamenca)
 - El texto toma cada vez mas protagonismo, no solo como estructura de la obra, sino como reflejo de su significado. Representación sonora de la palabra.
 - Búsqueda de mayor expresividad y contraste que en las generaciones anteriores.

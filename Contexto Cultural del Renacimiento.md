@@ -1,3 +1,5 @@
+Up:: [[El Renacimiento Musical del s.XV-XVI]]
+
 - Crisis de la Iglesia (1414-1418) Concilio de Constanza
 - Proliferación del comercio 
 - Caída de Constantinopla (1453)

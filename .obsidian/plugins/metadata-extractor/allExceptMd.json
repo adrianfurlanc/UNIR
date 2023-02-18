@@ -79,6 +79,16 @@
       "name": "Partitura Barroca.png",
       "basename": "Partitura Barroca",
       "relativePath": "res/Partitura Barroca.png"
+    },
+    {
+      "name": "09b_Nuevos estilos musicales_sXVII (dragged).pdf",
+      "basename": "09b_Nuevos estilos musicales_sXVII (dragged)",
+      "relativePath": "res/09b_Nuevos estilos musicales_sXVII (dragged).pdf"
+    },
+    {
+      "name": "09b_Nuevos estilos musicales_sXVII (dragged) 1.pdf",
+      "basename": "09b_Nuevos estilos musicales_sXVII (dragged) 1",
+      "relativePath": "res/09b_Nuevos estilos musicales_sXVII (dragged) 1.pdf"
     }
   ]
 }

@@ -1,3 +1,5 @@
+Up:: [[El Renacimiento Musical del s.XV-XVI]]
+
 - Inglaterra evoluciona hacia los movimientos paralelos y una visión vertical de la composición.
 - Gusto por la homofonía, la homorrítmia y la simplicidad
 - Panconsonancia. Las consonancias se cuidan en todas las voces.

@@ -1,4 +1,4 @@
-## Inglaterra en el s. XVI
+Up:: [[El Renacimiento Musical del s.XVI]]
 
 - La música se centraliza en la corte real situada en Londres que no admite músicos extranjeros. Aparecen tres tipos intercambiables:
 	- **Consort song**. Voz solista acompañada de conjunto de violas que caracterizará a la música inglesa. William Byrd (1543-1623), organista de la capilla real, es el principal representante de este estilo, además de componer música religiosa, tanto católica como profana.

@@ -1,3 +1,4 @@
+Up:: [[El Renacimiento Musical del s.XV-XVI]]
 ## Características Musicales (1era generación franco-flamenca)
 - Simplifica el contrapunto, predominan los acordes perfectos mayores y menores, prepara la disonancia y cultiva diversos géneros:
 	- Chanson. Generalmente a tres voces en forma de rondeau. Superius melódico y cantable.
@@ -9,7 +10,7 @@
 
 - Esta es la última generación que utilizará el motete isorrítmico.
 - Consolida el fabordón inglés
-- Generalmente a cuatro voces, aunque emplea el [[bicinium]].
+- Generalmente a cuatro voces, aunque emplea el [[Bicinium]].
 - Tendencia a mayor simplicidad
 - Un solo texto en latín.
 - Resalta alguna palabra con homofonía

@@ -1,7 +1,243 @@
 [
   {
+    "fileName": "Untitled 1",
+    "relativePath": "Untitled 1.md"
+  },
+  {
+    "fileName": "Barroco Alemán",
+    "relativePath": "Barroco Alemán.md",
+    "backlinks": [
+      {
+        "fileName": "El Barroco",
+        "link": "Barroco Alemán",
+        "relativePath": "El Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Barroco Italiano",
+    "relativePath": "Barroco Italiano.md",
+    "headings": [
+      {
+        "heading": "Música vocal",
+        "level": 4
+      },
+      {
+        "heading": "Roma",
+        "level": 4
+      },
+      {
+        "heading": "Venecia",
+        "level": 4
+      },
+      {
+        "heading": "Música Instrumental",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "El Barroco",
+        "link": "Barroco Italiano",
+        "relativePath": "El Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Barroco Inglés",
+    "relativePath": "Barroco Inglés.md",
+    "backlinks": [
+      {
+        "fileName": "El Barroco",
+        "link": "Barroco Inglés",
+        "relativePath": "El Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Barroco Francés",
+    "relativePath": "Barroco Francés.md",
+    "backlinks": [
+      {
+        "fileName": "El Barroco",
+        "link": "Barroco Francés",
+        "relativePath": "El Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Música de cámara y música sacra hasta la primera mitad de siglo",
+    "relativePath": "Música de cámara y música sacra hasta la primera mitad de siglo.md",
+    "headings": [
+      {
+        "heading": "Búsqueda de contrastes",
+        "level": 4
+      },
+      {
+        "heading": "Nuevos Géneros",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Barroco Temprano (c. 1600-c. 1630)",
+        "link": "Música de cámara y música sacra hasta la primera mitad de siglo",
+        "relativePath": "Barroco Temprano (c. 1600-c. 1630).md"
+      }
+    ]
+  },
+  {
+    "fileName": "Barroco Pleno (c. 1630-c. 1680)",
+    "relativePath": "Barroco Pleno (c. 1630-c. 1680).md",
+    "backlinks": [
+      {
+        "fileName": "El Barroco",
+        "link": "Barroco Pleno (c. 1630-c. 1680)",
+        "relativePath": "El Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Barroco Tardío (c. 1680-c. 1730)",
+    "relativePath": "Barroco Tardío (c. 1680-c. 1730).md",
+    "headings": [
+      {
+        "heading": "Sociedad",
+        "level": 4
+      },
+      {
+        "heading": "la ilustración",
+        "level": 4
+      },
+      {
+        "heading": "Características generales de la música del barroco tardío",
+        "level": 4
+      },
+      {
+        "heading": "Península Italiana",
+        "level": 4
+      },
+      {
+        "heading": "La ópera en Italia",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "El Barroco",
+        "link": "Barroco Tardío (c. 1680-c. 1730)",
+        "relativePath": "El Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Barro Pleno (c. 1630-c. 1680)",
+    "relativePath": "Barro Pleno (c. 1630-c. 1680).md"
+  },
+  {
+    "fileName": "Barroco Temprano (c. 1600-c. 1630)",
+    "relativePath": "Barroco Temprano (c. 1600-c. 1630).md",
+    "links": [
+      {
+        "link": "Música de cámara y música sacra hasta la primera mitad de siglo",
+        "relativePath": "Música de cámara y música sacra hasta la primera mitad de siglo.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "El Barroco",
+        "link": "Barroco Temprano (c. 1600-c. 1630)",
+        "relativePath": "El Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sociedad",
+    "relativePath": "Sociedad.md",
+    "backlinks": [
+      {
+        "fileName": "Transición del Renacimiento al Barroco",
+        "link": "Sociedad",
+        "relativePath": "Transición del Renacimiento al Barroco.md"
+      }
+    ]
+  },
+  {
+    "fileName": "El Barroco",
+    "relativePath": "El Barroco.md",
+    "headings": [
+      {
+        "heading": "música en el barroco",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Transición del Renacimiento al Barroco",
+        "relativePath": "Transición del Renacimiento al Barroco.md"
+      },
+      {
+        "link": "Barroco Temprano (c. 1600-c. 1630)",
+        "relativePath": "Barroco Temprano (c. 1600-c. 1630).md"
+      },
+      {
+        "link": "Barroco Pleno (c. 1630-c. 1680)",
+        "relativePath": "Barroco Pleno (c. 1630-c. 1680).md"
+      },
+      {
+        "link": "Barroco Tardío (c. 1680-c. 1730)",
+        "relativePath": "Barroco Tardío (c. 1680-c. 1730).md"
+      },
+      {
+        "link": "Barroco Francés",
+        "relativePath": "Barroco Francés.md"
+      },
+      {
+        "link": "Barroco Inglés",
+        "relativePath": "Barroco Inglés.md"
+      },
+      {
+        "link": "Barroco Italiano",
+        "relativePath": "Barroco Italiano.md"
+      },
+      {
+        "link": "Barroco Alemán",
+        "relativePath": "Barroco Alemán.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Untitled",
+    "relativePath": "Untitled.md"
+  },
+  {
+    "fileName": "Bicinium",
+    "relativePath": "Bicinium.md",
+    "backlinks": [
+      {
+        "fileName": "Primera generación franco-flamenca (c. 1420-c.1450)",
+        "link": "Bicinium",
+        "relativePath": "Primera generación franco-flamenca (c. 1420-c.1450).md"
+      }
+    ]
+  },
+  {
     "fileName": "La Música Instrumental a principios del siglo XVII",
     "relativePath": "La Música Instrumental a principios del siglo XVII.md",
+    "headings": [
+      {
+        "heading": "El Stile Concertato",
+        "level": 4
+      },
+      {
+        "heading": "El Bajo Continuo",
+        "level": 4
+      },
+      {
+        "heading": "La Composición Idiomática",
+        "level": 4
+      }
+    ],
     "backlinks": [
       {
         "fileName": "Transición del Renacimiento al Barroco",
@@ -102,7 +338,7 @@
     "relativePath": "Transición del Renacimiento al Barroco.md",
     "headings": [
       {
-        "heading": "Sociedad",
+        "heading": "[[Sociedad]]",
         "level": 4
       },
       {
@@ -120,6 +356,10 @@
     ],
     "links": [
       {
+        "link": "Sociedad",
+        "relativePath": "Sociedad.md"
+      },
+      {
         "link": "Pensamiento Estético",
         "relativePath": "Pensamiento Estético.md"
       },
@@ -132,17 +372,18 @@
         "displayText": "La Música Instrumental",
         "relativePath": "La Música Instrumental a principios del siglo XVII.md"
       }
+    ],
+    "backlinks": [
+      {
+        "fileName": "El Barroco",
+        "link": "Transición del Renacimiento al Barroco",
+        "relativePath": "El Barroco.md"
+      }
     ]
   },
   {
     "fileName": "Formas Instrumentales del s. XVI",
     "relativePath": "Formas Instrumentales del s. XVI.md",
-    "headings": [
-      {
-        "heading": "Formas Instrumentales del s. XVI",
-        "level": 2
-      }
-    ],
     "backlinks": [
       {
         "fileName": "La Música Instrumental del s. XVI",
@@ -154,12 +395,6 @@
   {
     "fileName": "La Música Instrumental del s. XVI",
     "relativePath": "La Música Instrumental del s. XVI.md",
-    "headings": [
-      {
-        "heading": "La Música Instrumental del s. XVI",
-        "level": 2
-      }
-    ],
     "links": [
       {
         "link": "Formas Instrumentales del s. XVI",
@@ -179,10 +414,6 @@
     "relativePath": "Confederación Germánica en el siglo s. XVI.md",
     "headings": [
       {
-        "heading": "Confederación germánica",
-        "level": 2
-      },
-      {
         "heading": "Autores",
         "level": 4
       }
@@ -198,12 +429,6 @@
   {
     "fileName": "Chanson Parisina en el s. XVI",
     "relativePath": "Chanson Parisina en el s. XVI.md",
-    "headings": [
-      {
-        "heading": "Chanson Parisina",
-        "level": 2
-      }
-    ],
     "backlinks": [
       {
         "fileName": "El Renacimiento Musical del s.XVI",
@@ -215,12 +440,6 @@
   {
     "fileName": "Inglaterra en el s. XVI",
     "relativePath": "Inglaterra en el s. XVI.md",
-    "headings": [
-      {
-        "heading": "Inglaterra en el s. XVI",
-        "level": 2
-      }
-    ],
     "backlinks": [
       {
         "fileName": "El Renacimiento Musical del s.XVI",
@@ -272,18 +491,8 @@
     ]
   },
   {
-    "fileName": "El Madrigal Italiano",
-    "relativePath": "El Madrigal Italiano.md"
-  },
-  {
     "fileName": "El Renacimiento Musical del s.XVI",
     "relativePath": "El Renacimiento Musical del s.XVI.md",
-    "headings": [
-      {
-        "heading": "El Renacimiento Musical del s.XVI",
-        "level": 2
-      }
-    ],
     "links": [
       {
         "link": "El Madrigal Italiano - Primera Mitad del XVI",
@@ -462,17 +671,6 @@
     ]
   },
   {
-    "fileName": "bicinium",
-    "relativePath": "bicinium.md",
-    "backlinks": [
-      {
-        "fileName": "Primera generación franco-flamenca (c. 1420-c.1450)",
-        "link": "bicinium",
-        "relativePath": "Primera generación franco-flamenca (c. 1420-c.1450).md"
-      }
-    ]
-  },
-  {
     "fileName": "Segunda generación franco-flamenca (c. 1450-c.1480)",
     "relativePath": "Segunda generación franco-flamenca (c. 1450-c.1480).md",
     "headings": [
@@ -504,8 +702,8 @@
     ],
     "links": [
       {
-        "link": "bicinium",
-        "relativePath": "bicinium.md"
+        "link": "Bicinium",
+        "relativePath": "Bicinium.md"
       }
     ],
     "backlinks": [
@@ -571,10 +769,6 @@
         "relativePath": "La Reforma y la Contrareforma.md"
       }
     ]
-  },
-  {
-    "fileName": "Untitled",
-    "relativePath": "Untitled.md"
   },
   {
     "fileName": "Autores",
@@ -1401,6 +1595,10 @@
         "level": 3
       }
     ]
+  },
+  {
+    "fileName": "Examen",
+    "relativePath": "Filosofía de la Música/Examen.md"
   },
   {
     "fileName": "Tema 9 - El Romanticismo (II)",

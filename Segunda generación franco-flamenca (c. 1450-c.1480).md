@@ -1,3 +1,5 @@
+Up:: [[El Renacimiento Musical del s.XV-XVI]]
+
 ## Características Musicales  (2da generación franco-flamenca)
 - Utiliza la imitación de forma sistemática y profusa.
 - Mayor complejidad y artificio contrapuntístico al extenderse hacia Francia.

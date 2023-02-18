@@ -1,3 +1,5 @@
+Up:: [[Contexto Cultural del Renacimiento]]
+
 ### La Reforma
 - Rompe Europa de una forma espectacular  (incluso rompe la forma de concebir la vida).
 - La música va a acompañar esta ruptura

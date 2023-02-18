@@ -1,4 +1,4 @@
-## Confederación germánica
+Up:: [[El Renacimiento Musical del s.XVI]]
 
 - Continúa la tradición medieval de los minnesinger. 
 - Componen lieder monódicos generalmente en barform.

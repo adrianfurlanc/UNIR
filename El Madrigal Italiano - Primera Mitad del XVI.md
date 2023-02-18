@@ -1,3 +1,5 @@
+Up:: [[El Renacimiento Musical del s.XVI]]
+
 ## Características musicales del Madrigal Italiano (primera mitad del XVI)
 
 - Empieza a cantarse en el XIV. Se usa un idioma que no es latín

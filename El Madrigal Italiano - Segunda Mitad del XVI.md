@@ -1,4 +1,7 @@
+Up:: [[El Renacimiento Musical del s.XVI]]
+
 ## Características musicales del Madrigal Italiano (segunda mitad del XVI)
+
 - Se expande por toda Europa y todo el mundo quiere imitarla
 -  Cada vez más alteraciones y colores diferentes
 - Cuando vea algo muy cromático es finales del XVI 

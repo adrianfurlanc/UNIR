@@ -1,4 +1,4 @@
-## La Música Instrumental del s. XVI
+Up:: [[El Renacimiento Musical del s.XVI]]
 
 Tras el perfeccionamiento de los instrumentos, el crecimiento económico que conlleva el aumento de la individualidad, y la edición de tablaturas desde 1507, la música instrumental conoce un auge extraordinario y comienza a tener un consistente repertorio escrito que se ha podido conservar.
 

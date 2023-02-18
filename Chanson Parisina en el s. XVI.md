@@ -1,4 +1,4 @@
-## Chanson Parisina
+Up:: [[El Renacimiento Musical del s.XVI]]
 
 - Hacia 1530 en París los compositores empiezan a alejarse de las complejidades contrapuntísticas y componen piezas fundamentalmente silábicas, homofónicas y sencillas, que se pueden dividir en tres tipos:
 	- **Chanson lírica**. Textura homófona, melodía cantable en el superior, declamación silábica para semibreves y mínimas, frases cortas definidas con repeticiones al principio y/o final. Ej. Claudin de Sermisy (1490-1562).

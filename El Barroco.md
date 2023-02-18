@@ -1,27 +1,34 @@
+[[Transición del Renacimiento al Barroco]]
 
+
+#### música en el barroco
+- Polifonía
+- Solistas
+- Combinación de distintos instrumentos
+- Búsqueda de sensualidad sonora y de la belleza
+- Contrastes (búsqueda de claroscuros musicales)  f y p
+- Búsqueda de mayor virtuosidad  
+  
 1. Época 
 	1. A qué período histórico pertenece y qué características la definen como tal?
-
-RENACIMIENTO (Música Profana)
-- [[El Madrigal Italiano - Primera Mitad del XVI]]
-- [[El Madrigal Italiano - Segunda Mitad del XVI]]
-
-- [[Chanson Parisina en el s. XVI]]
-
-- [[Confederación Germánica en el siglo s. XVI]]
-
-- [[Inglaterra en el s. XVI]]
+BARROCO
+	[[Barroco Temprano (c. 1600-c. 1630)]] 
+	[[Barroco Pleno (c. 1630-c. 1680)]]
+	[[Barroco Tardío (c. 1680-c. 1730)]]
 	
-- [[La Música Instrumental del s. XVI]]
 
 
 1.  Cronología
 	1. En qué siglo o generación situarías la pieza y porqué motivos?
-	
+
 
 1. Escuela
 	1. En qué zona geográfica se genera esta música y a cuál escuela pertenece? características musicales que lo determinan.
 
+[[Barroco Francés]]
+[[Barroco Inglés]]
+[[Barroco Italiano]]
+[[Barroco Alemán]]
 
 1.   Género
 	1. Qué tipo de pieza es? Cuál es su estructura? Qué características tiene? 

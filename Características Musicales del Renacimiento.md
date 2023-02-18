@@ -1,3 +1,5 @@
+Up:: [[El Renacimiento Musical del s.XV-XVI]]
+
 - **Aumento de la valoración de la música** 
 	- Capillas musicales. 
 	- Ostentación como amenización

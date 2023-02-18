@@ -1,3 +1,5 @@
+Up:: [[El Renacimiento Musical del s.XV-XVI]]
+
 ## Josquin Deprez
 - Contraste de texturas (las voces no cantan siempre, hay silencios
 - La Chanson de épocas anteriores son más ligeras sigue usando las formas fijas del medievo que se fundó en el XIV (el rondo)

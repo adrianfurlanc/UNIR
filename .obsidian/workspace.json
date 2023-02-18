@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34b52e42c34f3c74",
+        "id": "49260846117c9ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "c9fc14ffb1045656",
+            "id": "457bc82f69e4e121",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia de la Música/Tema 8 - Transición del Renacimiento al Barroco.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9d6cfa54c941fcb6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ea093b7a677d945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transición del Renacimiento al Barroco.md",
+                "file": "La Música Instrumental del s. XVI.md",
                 "mode": "source",
                 "source": false
               }
@@ -91,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transición del Renacimiento al Barroco.md"
+                "file": "La Música Instrumental del s. XVI.md"
               }
             }
           },
@@ -124,6 +105,41 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "987f274322458d41",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "La Música Instrumental del s. XVI.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
             }
           }
@@ -139,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transición del Renacimiento al Barroco.md",
+                "file": "La Música Instrumental del s. XVI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Transición del Renacimiento al Barroco.md",
+                "file": "La Música Instrumental del s. XVI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,17 +197,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "40de7e2dda11419e",
+  "active": "457bc82f69e4e121",
   "lastOpenFiles": [
-    "El surgimiento de la Ópera.md",
-    "El Renacimiento Musical del s.XV-XVI.md",
-    "Historia de la Música/Tema 6 -  La música sacra en el siglo XVI.md",
+    "Formas Instrumentales del s. XVI.md",
+    "La Música Instrumental del s. XVI.md",
     "El Renacimiento Musical del s.XVI.md",
-    "La Reforma y la Contrareforma.md",
-    "Transición del Renacimiento al Barroco.md",
-    "El Barroco en el arte.md",
-    "La Música Instrumental a principios del siglo XVII.md",
-    "Historia de la Música/Tema 8 - Transición del Renacimiento al Barroco.md",
-    "Transición del Renacimiento al Barroco 2.md"
+    "Inglaterra en el s. XVI.md",
+    "Confederación Germánica en el siglo s. XVI.md",
+    "Chanson Parisina en el s. XVI.md",
+    "El Madrigal Italiano - Segunda Mitad del XVI.md",
+    "El Madrigal Italiano - Primera Mitad del XVI.md",
+    "El Renacimiento Musical del s.XV-XVI.md",
+    "Características Musicales del Renacimiento.md"
   ]
 }

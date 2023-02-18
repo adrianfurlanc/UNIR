@@ -1,4 +1,4 @@
-## Formas Instrumentales del s. XVI
+Up:: [[La Música Instrumental del s. XVI]]
 
 A) **Derivadas de modelos vocales.**
 		- Transcripción de obras vocales. Madrigales, chanson y motetes con ornamentos improvisados.

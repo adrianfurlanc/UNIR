@@ -1,3 +1,5 @@
+Up:: [[El Renacimiento Musical del s.XV-XVI]]
+
 ## Características Musicales  (3era generación franco-flamenca)
 - **Uso sistemático de la imitación**
 	- Utilización de la imitación como elemento constructivo y cambiante. Comienza con un episodio (cuando un motivo comienza a jugar con una de las voces y todas las voces van jugando con ese motivo) Es la nueva estructura compositiva
