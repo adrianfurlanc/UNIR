@@ -3,8 +3,6 @@ Up:: [[Contexto Cultural del Renacimiento]]
 ### La Reforma
 - Rompe Europa de una forma espectacular  (incluso rompe la forma de concebir la vida).
 - La música va a acompañar esta ruptura
-- En 1570 el 40% de Europa era protestante, solo Italia, España y Portugal se erigen como defensores sin fisuras del catolicismo.
-- En el siglo XVII Francia, Polonia y Austria vuelven al catolicismo, y el protestantismo se reduce a un 20 %.
 
 - Lutero
 	- Quería reformar la Iglesia de una manera global.

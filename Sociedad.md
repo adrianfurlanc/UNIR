@@ -1,3 +1,4 @@
+Up:: [[Transición del Renacimiento al Barroco]]
 
 - La burguesía trata de tener los privilegios de la nobleza.
 - Crisis. Tras la plenitud del siglo XVI a finales de siglo Europa entra en una crisis general y profunda, que afecta a:

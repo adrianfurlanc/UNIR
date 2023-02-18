@@ -1,3 +1,5 @@
+Up:: [[La Contrarreforma]]
+
 ## Características Musicales de la Escuela Franco-Flamenca en la Contrarreforma
 
 - Dominio de las técnicas contrapuntísticas con tendencia a una virtuosidad manierista.

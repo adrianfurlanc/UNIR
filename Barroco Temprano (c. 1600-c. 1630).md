@@ -1,4 +1,5 @@
-[[Música de cámara y música sacra hasta la primera mitad de siglo]]
+Up:: [[El Barroco]]
+X:: [[Música de cámara y música sacra hasta la primera mitad de siglo]]
 
 - Etapa de transición en la que se mezclan características renacentistas (modalidad-tonalidad, plantillas mas pequeñas, formas breves) y barrocas (bajo continuo, búsqueda de affetti, contrastes, etc). Importancia del texto por encima de la música
 

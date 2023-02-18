@@ -1,5 +1,12 @@
-1. Época 
+### Contexto Sociocultural
+[[Contexto Cultural del Renacimiento| Contexto Cultural]]
+[[Características Musicales del Renacimiento|Características Musicales ]]
+
+
+
+2. Época 
 	1. A qué período histórico pertenece y qué características la definen como tal?
+3. 
 
 	#### RENACIMIENTO
 	- [[Antecedente de la música franco-flamenca renacentista]]
@@ -37,10 +44,6 @@
 	- Philippe Verdelot (c.1475 -1552)
 	- Nicolas Gombert (c.1495–1560)
 
-		
-### Contexto Sociocultural
-	   [[Contexto Cultural del Renacimiento| Contexto Cultural]]
-	   [[Características Musicales del Renacimiento|Características Musicales ]]
 
 
 

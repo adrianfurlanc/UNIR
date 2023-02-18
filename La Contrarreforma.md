@@ -1,3 +1,5 @@
+Up:: [[La Reforma y la Contrareforma]]
+
 ## La Contrarreforma
 
 - Fue un movimiento de la Iglesia Cristiana para mantener su poder y su coherencia teológica

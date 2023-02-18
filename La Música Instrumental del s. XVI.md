@@ -7,7 +7,6 @@ Tras el perfeccionamiento de los instrumentos, el crecimiento económico que con
 - **Vihuela**. Utilizada sobre todo en la Penísula Ibérica. También con seis órdenes e igual afinación que el laúd pero con menor tamaño y mayor manejabilidad.
 
 - **Instrumentos de teclado**. EI repertorio para órgano, clavicordios, clavicémbalos y espinetas se agrupan indistintamente.
-- Las primeras obras editadas en tierras germanas del Sacro Imperio Romano Germano (Schlick, 1512) conservan el espíritu contrapuntístico característico que conoce el preludio (preámbulo) desde mediados del siglo XV (Ileborgh, 1445).
 - En Italia utiliza frecuentemente pasajes adornados y estilo espontáneo. Aparece el primer *ricercare* plenamente imitativo con estilo instrumental (Cavazzoni, 1523).
 - En Inglaterra la escuela de los virginalistas inicia las composiciones musicales en un idioma característico de estilo para teclado (figuración) y formas propias. Ej. Thomas Tallis (1505-1585).
 

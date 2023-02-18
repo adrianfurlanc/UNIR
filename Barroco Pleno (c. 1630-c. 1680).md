@@ -1,3 +1,6 @@
+Up:: [[El Barroco]]
+X:: [[Música de cámara y música sacra hasta la primera mitad de siglo]]
+
 - Inicios del virtuosismo y el bel canto, profusión de adornos, consolidación de las nuevas formas musicales (canzona, cantata, concierto, oratorio), gran difusión de la sonata en trío y la ópera. Equilibrio entre el texto y la música, estilo íntimo. Crecimiento de la participación instrumental.
 
 - Es el desarrollo cada vez mayor de la ópera (más espectacularidad, el virtuosismo, mayor técnica en el canto, mayor cantidad de público)
